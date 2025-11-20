@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hamsini 👋</h1>
 
-<!--
-**Hamsini-06/Hamsini-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Master’s Student | Aspiring Data Scientist | Passionate About Turning Data Into Insights</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 Master’s student exploring the world of **Data Science**
+- 💡 Interested in **data analysis, machine learning, and data-driven problem solving**
+- 📊 Strong foundation in **Python, Pandas, SQL, and Excel**
+- 🌱 Currently building projects to strengthen my portfolio and GitHub presence
+- 🎯 Goal: Become a **skilled data scientist** and work on impactful real-world projects
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools**
+- 🐍 Python  
+- 📊 Pandas  
+- 🗄️ SQL  
+- 📈 Excel  
+
+**Also working with**
+- NumPy  
+- Matplotlib & Seaborn  
+- Jupyter Notebooks  
+- Git & GitHub  
+
+---
+
+### 📂 What I’m Currently Working On
+- Enhancing my GitHub with beginner-friendly data science projects  
+- Practicing data cleaning, visualizations, and exploratory analysis  
+- Building a personal machine learning portfolio  
+
+---
+
+### 🚀 Projects Coming Soon
+- 📘 Exploratory Data Analysis Notebooks  
+- 📑 Data Cleaning & Manipulation Workflows  
+- 🤖 Simple Machine Learning Models  
+- 📂 SQL Queries & Mini Data Engineering Exercises  
+
+---
+
+### 📬 Connect With Me
+- 📧 Email: *add your email here*
+- 💼 LinkedIn: *add your LinkedIn link here*
+
+---
+
+### ⭐ Thanks for visiting!
+If you like my work or want to collaborate, feel free to reach out or star my repositories!
