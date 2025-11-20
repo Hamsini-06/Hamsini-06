@@ -46,11 +46,5 @@
 
 ---
 
-### 📬 Connect With Me
-- 📧 Email: *add your email here*
-- 💼 LinkedIn: *add your LinkedIn link here*
-
----
-
 ### ⭐ Thanks for visiting!
 If you like my work or want to collaborate, feel free to reach out or star my repositories!
